@@ -9,6 +9,7 @@ namespace Apps_Taxi
         public bool onDutty { get; set; }
         public float numbPassenger { get; set; }
 
+
         //METHOD
         public void TaxiInfo()
         {
